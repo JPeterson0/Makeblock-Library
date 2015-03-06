@@ -5,7 +5,7 @@
 
 //Parts required:Me RJ25 Adapter and two servo 	
 //Me RJ25 Adapter SLOT1 connect servo1,SLOT2connect servo2,
-//The Me RJ25 Adapter module can connect to the port with yellow tag (PORT_3 to PROT_8). 
+//The Me RJ25 Adapter module can connect to the port with yellow tag (PORT_3 to PORT_8). 
 
 #include <Servo.h> //include the Servo library;
 
